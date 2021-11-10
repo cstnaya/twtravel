@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/twtravel/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/twtravel/static/js/main.edf3bdcc.chunk.js",
-    "main.js.map": "/twtravel/static/js/main.edf3bdcc.chunk.js.map",
-    "runtime-main.js": "/twtravel/static/js/runtime-main.5eeb9d05.js",
-    "runtime-main.js.map": "/twtravel/static/js/runtime-main.5eeb9d05.js.map",
-    "static/js/2.e0040dd8.chunk.js": "/twtravel/static/js/2.e0040dd8.chunk.js",
-    "static/js/2.e0040dd8.chunk.js.map": "/twtravel/static/js/2.e0040dd8.chunk.js.map",
-    "static/js/3.d52f4c4e.chunk.js": "/twtravel/static/js/3.d52f4c4e.chunk.js",
-    "static/js/3.d52f4c4e.chunk.js.map": "/twtravel/static/js/3.d52f4c4e.chunk.js.map",
+    "main.css": "/twtravel/static/css/main.a3169402.chunk.css",
+    "main.js": "/twtravel/static/js/main.04ebba06.chunk.js",
+    "main.js.map": "/twtravel/static/js/main.04ebba06.chunk.js.map",
+    "runtime-main.js": "/twtravel/static/js/runtime-main.56835848.js",
+    "runtime-main.js.map": "/twtravel/static/js/runtime-main.56835848.js.map",
+    "static/css/2.fd503101.chunk.css": "/twtravel/static/css/2.fd503101.chunk.css",
+    "static/js/2.13aa9c83.chunk.js": "/twtravel/static/js/2.13aa9c83.chunk.js",
+    "static/js/2.13aa9c83.chunk.js.map": "/twtravel/static/js/2.13aa9c83.chunk.js.map",
     "index.html": "/twtravel/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/twtravel/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e0040dd8.chunk.js.LICENSE.txt": "/twtravel/static/js/2.e0040dd8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/twtravel/static/media/logo.6ce24c58.svg"
+    "static/css/2.fd503101.chunk.css.map": "/twtravel/static/css/2.fd503101.chunk.css.map",
+    "static/css/main.a3169402.chunk.css.map": "/twtravel/static/css/main.a3169402.chunk.css.map",
+    "static/js/2.13aa9c83.chunk.js.LICENSE.txt": "/twtravel/static/js/2.13aa9c83.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/twtravel/static/media/Lantern.55f9b7c6.svg",
+    "static/media/banner1.4c1b6925.jpg": "/twtravel/static/media/banner1.4c1b6925.jpg",
+    "static/media/banner2.0b127275.jpg": "/twtravel/static/media/banner2.0b127275.jpg",
+    "static/media/font-awesome.min.css": "/twtravel/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nonexist.b5b5a50e.png": "/twtravel/static/media/nonexist.b5b5a50e.png",
+    "static/media/header.css": "/twtravel/static/media/whale.b47942e2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5eeb9d05.js",
-    "static/js/2.e0040dd8.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.edf3bdcc.chunk.js"
+    "static/js/runtime-main.56835848.js",
+    "static/css/2.fd503101.chunk.css",
+    "static/js/2.13aa9c83.chunk.js",
+    "static/css/main.a3169402.chunk.css",
+    "static/js/main.04ebba06.chunk.js"
   ]
 }
