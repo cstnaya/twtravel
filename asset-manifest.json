@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twtravel/static/css/main.a3169402.chunk.css",
-    "main.js": "/twtravel/static/js/main.04ebba06.chunk.js",
-    "main.js.map": "/twtravel/static/js/main.04ebba06.chunk.js.map",
+    "main.js": "/twtravel/static/js/main.636955ef.chunk.js",
+    "main.js.map": "/twtravel/static/js/main.636955ef.chunk.js.map",
     "runtime-main.js": "/twtravel/static/js/runtime-main.56835848.js",
     "runtime-main.js.map": "/twtravel/static/js/runtime-main.56835848.js.map",
     "static/css/2.fd503101.chunk.css": "/twtravel/static/css/2.fd503101.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.fd503101.chunk.css",
     "static/js/2.13aa9c83.chunk.js",
     "static/css/main.a3169402.chunk.css",
-    "static/js/main.04ebba06.chunk.js"
+    "static/js/main.636955ef.chunk.js"
   ]
 }
